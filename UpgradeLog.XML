@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConsoleApplication7">
+</Property><Property Name="Archivo de la solución" Value="F:\alex\tarea\AppCaballo\ConsoleApplication7.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="F:\alex\tarea\AppCaballo\ConsoleApplication7.suo">
+</Property><Property Name="Date" Value="jueves, 01 de septiembre de 2011">
+</Property><Property Name="Time" Value="11:08 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ConsoleApplication7.sln" Description="La copia F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleApplication7.suo" Description="La copia F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\ConsoleApplication7.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7\ConsoleApplication7.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\ControlJuego.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7\ControlJuego.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\Juego.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7\Juego.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\Tablero.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\alex\tarea\AppCaballo\Backup\ConsoleApplication7\Tablero.cs">
+</Event><Event ErrorLevel="1" Project="ConsoleApplication7" Source="ConsoleApplication7\ConsoleApplication7.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\ConsoleApplication7.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication7" Source="ConsoleApplication7\ConsoleApplication7.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleApplication7.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ConsoleApplication7.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication7" Source="ConsoleApplication7\ConsoleApplication7.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

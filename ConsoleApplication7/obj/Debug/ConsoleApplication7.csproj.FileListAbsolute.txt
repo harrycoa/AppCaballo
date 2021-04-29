@@ -1,0 +1,5 @@
+F:\alex\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+F:\alex\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+F:\alex\tarea\AppCaballo\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+F:\alex\tarea\AppCaballo\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+F:\alex\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ResolveAssemblyReference.cache

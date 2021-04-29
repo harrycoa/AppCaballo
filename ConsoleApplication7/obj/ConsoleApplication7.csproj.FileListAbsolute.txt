@@ -1,0 +1,15 @@
+C:\Documents and Settings\Edward\Mis documentos\Visual Studio 2005\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Edward\Mis documentos\Visual Studio 2005\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Documents and Settings\Edward\Mis documentos\Visual Studio 2005\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Documents and Settings\Edward\Mis documentos\Visual Studio 2005\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Documents and Settings\Edward\Mis documentos\Visual Studio 2005\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+H:\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+H:\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+H:\tarea\AppCaballo\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+H:\tarea\AppCaballo\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+H:\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ResolveAssemblyReference.cache
+H:\alex\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+H:\alex\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+H:\alex\tarea\AppCaballo\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+H:\alex\tarea\AppCaballo\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+H:\alex\tarea\AppCaballo\ConsoleApplication7\obj\Debug\ResolveAssemblyReference.cache
